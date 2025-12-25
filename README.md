@@ -5,10 +5,17 @@ Using characteristics including location, size, number of rooms, and amenities, 
 https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 ## Features
 Data Collection
+
 Exploratory Data Analysis
+
 Data Pre-processing
+
 Feature Engineering and Data Visualisation
+
 Train-Test Split
+
 Model Building & Training
+
 Models Implemented are Linear Regression, XG Boost and Random Forest Classifier
+
 Model Evaluation
